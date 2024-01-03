@@ -1,0 +1,289 @@
+{
+  "TcpModeEnable": 0,
+  "ClearData": 1,
+  "SendFramePeriod": 1000,
+  "dataset": [
+    {
+      "DevIndex": "0",
+      "S_link": 7,
+      "S_linkDev": 1,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 9,
+          "SlaveDevAddr": 105,
+          "ModbusRegAddr": 16385,
+          "GetRegCount": 18,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 16385,
+          "HighAddr": 16402,
+          "DataFormat": 2,
+          "KeyDec": [
+            "105-UA",
+            "105-UB",
+            "105-UC",
+            "105-IA",
+            "105-IB",
+            "105-IC",
+            "105-P",
+            "105-Q",
+            "105-PF"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 1,
+          "StoreRegStartAddr": 10,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 105,
+          "ModbusRegAddr": 1,
+          "GetRegCount": 1,
+          "AreaNum": 1,
+          "DataProperty": 0,
+          "DataType": "ModbusDataType_bitField",
+          "DataTypeEnum": 6,
+          "LowAddr": 1,
+          "HighAddr": 1,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": [
+            {
+              "No": 0,
+              "KeyMode": "",
+              "KeyDec": "105-分",
+              "ModbusRegAddr": 1,
+              "Reverse": 1,
+              "Bit": 0
+            },
+            {
+              "No": 1,
+              "KeyMode": "",
+              "KeyDec": "105-合",
+              "ModbusRegAddr": 1,
+              "Reverse": 1,
+              "Bit": 1
+            }
+          ],
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "1",
+      "S_link": 7,
+      "S_linkDev": 2,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 9,
+          "SlaveDevAddr": 108,
+          "ModbusRegAddr": 16385,
+          "GetRegCount": 18,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 16385,
+          "HighAddr": 16402,
+          "DataFormat": 2,
+          "KeyDec": [
+            "108-UA",
+            "108-UB",
+            "108-UC",
+            "108-IA",
+            "108-IB",
+            "108-IC",
+            "108-P",
+            "108-Q",
+            "108-PF"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 1,
+          "StoreRegStartAddr": 10,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 108,
+          "ModbusRegAddr": 1,
+          "GetRegCount": 1,
+          "AreaNum": 1,
+          "DataProperty": 0,
+          "DataType": "ModbusDataType_bitField",
+          "DataTypeEnum": 6,
+          "LowAddr": 1,
+          "HighAddr": 1,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "108-分",
+              "ModbusRegAddr": 1,
+              "Reverse": 1,
+              "Bit": 0
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "108-合",
+              "ModbusRegAddr": 1,
+              "Reverse": 1,
+              "Bit": 1
+            }
+          ],
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "2",
+      "S_link": 7,
+      "S_linkDev": 3,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 9,
+          "SlaveDevAddr": 109,
+          "ModbusRegAddr": 16385,
+          "GetRegCount": 18,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 16385,
+          "HighAddr": 16402,
+          "DataFormat": 2,
+          "KeyDec": [
+            "109-UA",
+            "109-UB",
+            "109-UC",
+            "109-IA",
+            "109-IB",
+            "109-IC",
+            "109-P",
+            "109-Q",
+            "109-PF"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 1,
+          "StoreRegStartAddr": 10,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 109,
+          "ModbusRegAddr": 1,
+          "GetRegCount": 1,
+          "AreaNum": 1,
+          "DataProperty": 0,
+          "DataType": "ModbusDataType_bitField",
+          "DataTypeEnum": 6,
+          "LowAddr": 1,
+          "HighAddr": 1,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "109-分",
+              "ModbusRegAddr": 1,
+              "Reverse": 1,
+              "Bit": 0
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "109-合",
+              "ModbusRegAddr": 1,
+              "Reverse": 1,
+              "Bit": 1
+            }
+          ],
+          "MultiTypeList": null
+        }
+      ]
+    }
+  ]
+}
