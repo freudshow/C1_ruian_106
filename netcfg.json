@@ -1,10 +1,10 @@
 {
   "NetCfg": [
     {
-      "mac": "",
+      "mac": "192.168.88.44.55.55",
       "macChanged": 0,
-      "localIPAddr": "192.168.31.101",
-      "gateway": "",
+      "localIPAddr": "192.168.0.232",
+      "gateway": "192.168.0.1",
       "subnet": "255.255.255.0",
       "dns_server": "114.114.114.114",
       "multiNet": [
@@ -47,7 +47,7 @@
         {
           "mac": "",
           "macChanged": 0,
-          "localIPAddr": "192.168.31.101",
+          "localIPAddr": "",
           "gateway": "",
           "subnet": "255.255.255.0",
           "dns_server": "114.114.114.114",
@@ -121,9 +121,14 @@
           "ipaddr": "192.168.1.10",
           "LocalPort": 2404,
           "RemotePort": 1000,
-          "SocketChannelNo": 1,
-          "NetChannelNo": 3,
-          "TcpServerSet": null
+          "SocketChannelNo": 0,
+          "NetChannelNo": 10,
+          "TcpServerSet": [
+            {
+              "No": 0,
+              "ClientIp": "11.0.64.7"
+            }
+          ]
         },
         {
           "linkno": 7,
@@ -141,9 +146,14 @@
           "ipaddr": "192.168.1.10",
           "LocalPort": 5678,
           "RemotePort": 1000,
-          "SocketChannelNo": 8,
-          "NetChannelNo": 3,
-          "TcpServerSet": null
+          "SocketChannelNo": 1,
+          "NetChannelNo": 10,
+          "TcpServerSet": [
+            {
+              "No": 0,
+              "ClientIp": "11.0.64.4"
+            }
+          ]
         },
         {
           "linkno": 9,
