@@ -3389,7 +3389,7 @@
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
       "GenerateModbusSlaveAddr": 0,
-      "TypeProperty": 0
+      "TypeProperty": 46
     },
     {
       "RealDevOrderNum": 141,
@@ -3413,7 +3413,7 @@
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
       "GenerateModbusSlaveAddr": 0,
-      "TypeProperty": 0
+      "TypeProperty": 46
     },
     {
       "RealDevOrderNum": 142,
@@ -3437,7 +3437,7 @@
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
       "GenerateModbusSlaveAddr": 0,
-      "TypeProperty": 0
+      "TypeProperty": 46
     },
     {
       "RealDevOrderNum": 143,
@@ -3461,7 +3461,7 @@
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
       "GenerateModbusSlaveAddr": 0,
-      "TypeProperty": 0
+      "TypeProperty": 46
     },
     {
       "RealDevOrderNum": 144,

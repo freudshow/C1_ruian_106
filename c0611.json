@@ -1744,11 +1744,11 @@
     },
     {
       "No": 1,
-      "Name": "设备[1]-105-合-实时库号[629]",
+      "Name": "设备[2]-备用遥信31-实时库号[140]",
       "Unit": null,
       "Addr": 2,
       "Xishu": 1.0,
-      "RealDevNo": 629,
+      "RealDevNo": 140,
       "type": 0,
       "CurrentValue": 0.0,
       "Idx": 1
@@ -2008,11 +2008,11 @@
     },
     {
       "No": 25,
-      "Name": "设备[2]-108-合-实时库号[640]",
+      "Name": "设备[2]-备用遥信32-实时库号[141]",
       "Unit": null,
       "Addr": 26,
       "Xishu": 1.0,
-      "RealDevNo": 640,
+      "RealDevNo": 141,
       "type": 0,
       "CurrentValue": 0.0,
       "Idx": 25
@@ -2140,11 +2140,11 @@
     },
     {
       "No": 37,
-      "Name": "设备[3]-109-合-实时库号[651]",
+      "Name": "设备[2]-备用遥信33-实时库号[142]",
       "Unit": null,
       "Addr": 38,
       "Xishu": 1.0,
-      "RealDevNo": 651,
+      "RealDevNo": 142,
       "type": 0,
       "CurrentValue": 0.0,
       "Idx": 37
@@ -2272,11 +2272,11 @@
     },
     {
       "No": 49,
-      "Name": "设备[1]-110-合-实时库号[662]",
+      "Name": "设备[2]-备用遥信34-实时库号[143]",
       "Unit": null,
       "Addr": 50,
       "Xishu": 1.0,
-      "RealDevNo": 662,
+      "RealDevNo": 143,
       "type": 0,
       "CurrentValue": 0.0,
       "Idx": 49
