@@ -1,7 +1,7 @@
 {
   "Pad": {
     "TotalYcCount": 150,
-    "TotalYxCount": 60,
+    "TotalYxCount": 72,
     "TotalYkCount": 4,
     "TotalDDCount": 0,
     "TotalParameterCount": 0,
@@ -87,7 +87,6 @@
       "Xishu": 1.0,
       "RealDevNo": 619,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
@@ -98,7 +97,6 @@
       "Xishu": 1.0,
       "RealDevNo": 620,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 1
     },
     {
@@ -109,7 +107,6 @@
       "Xishu": 1.0,
       "RealDevNo": 621,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 2
     },
     {
@@ -120,7 +117,6 @@
       "Xishu": 1.0,
       "RealDevNo": 622,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 3
     },
     {
@@ -131,7 +127,6 @@
       "Xishu": 1.0,
       "RealDevNo": 623,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 4
     },
     {
@@ -142,7 +137,6 @@
       "Xishu": 1.0,
       "RealDevNo": 624,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 5
     },
     {
@@ -153,7 +147,6 @@
       "Xishu": 0.001,
       "RealDevNo": 625,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 6
     },
     {
@@ -164,7 +157,6 @@
       "Xishu": 0.001,
       "RealDevNo": 626,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 7
     },
     {
@@ -175,7 +167,6 @@
       "Xishu": 0.01,
       "RealDevNo": 627,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 8
     },
     {
@@ -186,7 +177,6 @@
       "Xishu": 1.0,
       "RealDevNo": 61,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 9
     },
     {
@@ -197,7 +187,6 @@
       "Xishu": 1.0,
       "RealDevNo": 62,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 10
     },
     {
@@ -208,7 +197,6 @@
       "Xishu": 1.0,
       "RealDevNo": 63,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 11
     },
     {
@@ -219,7 +207,6 @@
       "Xishu": 1.0,
       "RealDevNo": 64,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 12
     },
     {
@@ -230,7 +217,6 @@
       "Xishu": 1.0,
       "RealDevNo": 144,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 13
     },
     {
@@ -241,7 +227,6 @@
       "Xishu": 1.0,
       "RealDevNo": 145,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 14
     },
     {
@@ -252,7 +237,6 @@
       "Xishu": 1.0,
       "RealDevNo": 146,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 15
     },
     {
@@ -263,7 +247,6 @@
       "Xishu": 1.0,
       "RealDevNo": 147,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 16
     },
     {
@@ -274,7 +257,6 @@
       "Xishu": 1.0,
       "RealDevNo": 148,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 17
     },
     {
@@ -285,7 +267,6 @@
       "Xishu": 1.0,
       "RealDevNo": 149,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 18
     },
     {
@@ -296,7 +277,6 @@
       "Xishu": 1.0,
       "RealDevNo": 150,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 19
     },
     {
@@ -307,7 +287,6 @@
       "Xishu": 1.0,
       "RealDevNo": 151,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 20
     },
     {
@@ -318,7 +297,6 @@
       "Xishu": 1.0,
       "RealDevNo": 152,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 21
     },
     {
@@ -329,7 +307,6 @@
       "Xishu": 1.0,
       "RealDevNo": 153,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 22
     },
     {
@@ -340,7 +317,6 @@
       "Xishu": 1.0,
       "RealDevNo": 154,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 23
     },
     {
@@ -351,7 +327,6 @@
       "Xishu": 1.0,
       "RealDevNo": 155,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 24
     },
     {
@@ -362,7 +337,6 @@
       "Xishu": 0.1,
       "RealDevNo": 581,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 25
     },
     {
@@ -373,7 +347,6 @@
       "Xishu": 0.1,
       "RealDevNo": 582,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 26
     },
     {
@@ -384,7 +357,6 @@
       "Xishu": 0.1,
       "RealDevNo": 583,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 27
     },
     {
@@ -395,7 +367,6 @@
       "Xishu": 1.0,
       "RealDevNo": 269,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 28
     },
     {
@@ -406,7 +377,6 @@
       "Xishu": 1.0,
       "RealDevNo": 270,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 29
     },
     {
@@ -417,7 +387,6 @@
       "Xishu": 1.0,
       "RealDevNo": 271,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 30
     },
     {
@@ -428,7 +397,6 @@
       "Xishu": 1.0,
       "RealDevNo": 266,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 31
     },
     {
@@ -439,7 +407,6 @@
       "Xishu": 1.0,
       "RealDevNo": 267,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 32
     },
     {
@@ -450,7 +417,6 @@
       "Xishu": 1.0,
       "RealDevNo": 268,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 33
     },
     {
@@ -461,7 +427,6 @@
       "Xishu": 0.001,
       "RealDevNo": 443,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 34
     },
     {
@@ -472,7 +437,6 @@
       "Xishu": 0.001,
       "RealDevNo": 444,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 35
     },
     {
@@ -483,7 +447,6 @@
       "Xishu": 0.01,
       "RealDevNo": 284,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 36
     },
     {
@@ -494,7 +457,6 @@
       "Xishu": 1.0,
       "RealDevNo": 61,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 37
     },
     {
@@ -505,7 +467,6 @@
       "Xishu": 1.0,
       "RealDevNo": 62,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 38
     },
     {
@@ -516,7 +477,6 @@
       "Xishu": 1.0,
       "RealDevNo": 63,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 39
     },
     {
@@ -527,7 +487,6 @@
       "Xishu": 1.0,
       "RealDevNo": 64,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 40
     },
     {
@@ -538,7 +497,6 @@
       "Xishu": 1.0,
       "RealDevNo": 144,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 41
     },
     {
@@ -549,7 +507,6 @@
       "Xishu": 1.0,
       "RealDevNo": 145,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 42
     },
     {
@@ -560,7 +517,6 @@
       "Xishu": 1.0,
       "RealDevNo": 146,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 43
     },
     {
@@ -571,7 +527,6 @@
       "Xishu": 1.0,
       "RealDevNo": 147,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 44
     },
     {
@@ -582,7 +537,6 @@
       "Xishu": 1.0,
       "RealDevNo": 148,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 45
     },
     {
@@ -593,7 +547,6 @@
       "Xishu": 1.0,
       "RealDevNo": 149,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 46
     },
     {
@@ -604,7 +557,6 @@
       "Xishu": 1.0,
       "RealDevNo": 150,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 47
     },
     {
@@ -615,7 +567,6 @@
       "Xishu": 1.0,
       "RealDevNo": 151,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 48
     },
     {
@@ -626,7 +577,6 @@
       "Xishu": 1.0,
       "RealDevNo": 152,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 49
     },
     {
@@ -637,7 +587,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 50
     },
     {
@@ -648,7 +597,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 51
     },
     {
@@ -659,7 +607,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 52
     },
     {
@@ -670,7 +617,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 53
     },
     {
@@ -681,7 +627,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 54
     },
     {
@@ -692,7 +637,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 55
     },
     {
@@ -703,7 +647,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 56
     },
     {
@@ -714,7 +657,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 57
     },
     {
@@ -725,7 +667,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 58
     },
     {
@@ -736,7 +677,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 59
     },
     {
@@ -747,7 +687,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 60
     },
     {
@@ -758,7 +697,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 61
     },
     {
@@ -769,7 +707,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 62
     },
     {
@@ -780,7 +717,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 63
     },
     {
@@ -791,7 +727,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 64
     },
     {
@@ -802,7 +737,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 65
     },
     {
@@ -813,7 +747,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 66
     },
     {
@@ -824,7 +757,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 67
     },
     {
@@ -835,7 +767,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 68
     },
     {
@@ -846,7 +777,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 69
     },
     {
@@ -857,7 +787,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 70
     },
     {
@@ -868,7 +797,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 71
     },
     {
@@ -879,7 +807,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 72
     },
     {
@@ -890,7 +817,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 73
     },
     {
@@ -901,7 +827,6 @@
       "Xishu": 1.0,
       "RealDevNo": 167,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 74
     },
     {
@@ -912,7 +837,6 @@
       "Xishu": 1.0,
       "RealDevNo": 630,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 75
     },
     {
@@ -923,7 +847,6 @@
       "Xishu": 1.0,
       "RealDevNo": 631,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 76
     },
     {
@@ -934,7 +857,6 @@
       "Xishu": 1.0,
       "RealDevNo": 632,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 77
     },
     {
@@ -945,7 +867,6 @@
       "Xishu": 1.0,
       "RealDevNo": 633,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 78
     },
     {
@@ -956,7 +877,6 @@
       "Xishu": 1.0,
       "RealDevNo": 634,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 79
     },
     {
@@ -967,7 +887,6 @@
       "Xishu": 1.0,
       "RealDevNo": 635,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 80
     },
     {
@@ -978,7 +897,6 @@
       "Xishu": 0.001,
       "RealDevNo": 636,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 81
     },
     {
@@ -989,7 +907,6 @@
       "Xishu": 0.001,
       "RealDevNo": 637,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 82
     },
     {
@@ -1000,7 +917,6 @@
       "Xishu": 0.01,
       "RealDevNo": 638,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 83
     },
     {
@@ -1011,7 +927,6 @@
       "Xishu": 1.0,
       "RealDevNo": 61,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 84
     },
     {
@@ -1022,7 +937,6 @@
       "Xishu": 1.0,
       "RealDevNo": 62,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 85
     },
     {
@@ -1033,7 +947,6 @@
       "Xishu": 1.0,
       "RealDevNo": 63,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 86
     },
     {
@@ -1044,7 +957,6 @@
       "Xishu": 1.0,
       "RealDevNo": 64,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 87
     },
     {
@@ -1055,7 +967,6 @@
       "Xishu": 1.0,
       "RealDevNo": 144,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 88
     },
     {
@@ -1066,7 +977,6 @@
       "Xishu": 1.0,
       "RealDevNo": 145,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 89
     },
     {
@@ -1077,7 +987,6 @@
       "Xishu": 1.0,
       "RealDevNo": 146,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 90
     },
     {
@@ -1088,7 +997,6 @@
       "Xishu": 1.0,
       "RealDevNo": 147,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 91
     },
     {
@@ -1099,7 +1007,6 @@
       "Xishu": 1.0,
       "RealDevNo": 148,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 92
     },
     {
@@ -1110,7 +1017,6 @@
       "Xishu": 1.0,
       "RealDevNo": 149,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 93
     },
     {
@@ -1121,7 +1027,6 @@
       "Xishu": 1.0,
       "RealDevNo": 150,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 94
     },
     {
@@ -1132,7 +1037,6 @@
       "Xishu": 1.0,
       "RealDevNo": 151,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 95
     },
     {
@@ -1143,7 +1047,6 @@
       "Xishu": 1.0,
       "RealDevNo": 152,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 96
     },
     {
@@ -1154,7 +1057,6 @@
       "Xishu": 1.0,
       "RealDevNo": 153,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 97
     },
     {
@@ -1165,7 +1067,6 @@
       "Xishu": 1.0,
       "RealDevNo": 154,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 98
     },
     {
@@ -1176,7 +1077,6 @@
       "Xishu": 1.0,
       "RealDevNo": 155,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 99
     },
     {
@@ -1187,7 +1087,6 @@
       "Xishu": 1.0,
       "RealDevNo": 641,
       "type": 1,
-      "CurrentValue": 228.34201,
       "Idx": 100
     },
     {
@@ -1198,7 +1097,6 @@
       "Xishu": 1.0,
       "RealDevNo": 642,
       "type": 1,
-      "CurrentValue": 228.21701,
       "Idx": 101
     },
     {
@@ -1209,7 +1107,6 @@
       "Xishu": 1.0,
       "RealDevNo": 643,
       "type": 1,
-      "CurrentValue": 228.093018,
       "Idx": 102
     },
     {
@@ -1220,7 +1117,6 @@
       "Xishu": 1.0,
       "RealDevNo": 644,
       "type": 1,
-      "CurrentValue": 13.7570009,
       "Idx": 103
     },
     {
@@ -1231,7 +1127,6 @@
       "Xishu": 1.0,
       "RealDevNo": 645,
       "type": 1,
-      "CurrentValue": 10.5280008,
       "Idx": 104
     },
     {
@@ -1242,7 +1137,6 @@
       "Xishu": 1.0,
       "RealDevNo": 646,
       "type": 1,
-      "CurrentValue": 14.7050009,
       "Idx": 105
     },
     {
@@ -1253,7 +1147,6 @@
       "Xishu": 0.001,
       "RealDevNo": 647,
       "type": 1,
-      "CurrentValue": 8093.61426,
       "Idx": 106
     },
     {
@@ -1264,7 +1157,6 @@
       "Xishu": 0.001,
       "RealDevNo": 648,
       "type": 1,
-      "CurrentValue": 1518.701,
       "Idx": 107
     },
     {
@@ -1275,7 +1167,6 @@
       "Xishu": 0.01,
       "RealDevNo": 649,
       "type": 1,
-      "CurrentValue": 90.959,
       "Idx": 108
     },
     {
@@ -1286,7 +1177,6 @@
       "Xishu": 1.0,
       "RealDevNo": 61,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 109
     },
     {
@@ -1297,7 +1187,6 @@
       "Xishu": 1.0,
       "RealDevNo": 62,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 110
     },
     {
@@ -1308,7 +1197,6 @@
       "Xishu": 1.0,
       "RealDevNo": 63,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 111
     },
     {
@@ -1319,7 +1207,6 @@
       "Xishu": 1.0,
       "RealDevNo": 64,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 112
     },
     {
@@ -1330,7 +1217,6 @@
       "Xishu": 1.0,
       "RealDevNo": 144,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 113
     },
     {
@@ -1341,7 +1227,6 @@
       "Xishu": 1.0,
       "RealDevNo": 145,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 114
     },
     {
@@ -1352,7 +1237,6 @@
       "Xishu": 1.0,
       "RealDevNo": 146,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 115
     },
     {
@@ -1363,7 +1247,6 @@
       "Xishu": 1.0,
       "RealDevNo": 147,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 116
     },
     {
@@ -1374,7 +1257,6 @@
       "Xishu": 1.0,
       "RealDevNo": 148,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 117
     },
     {
@@ -1385,7 +1267,6 @@
       "Xishu": 1.0,
       "RealDevNo": 149,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 118
     },
     {
@@ -1396,7 +1277,6 @@
       "Xishu": 1.0,
       "RealDevNo": 150,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 119
     },
     {
@@ -1407,7 +1287,6 @@
       "Xishu": 1.0,
       "RealDevNo": 151,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 120
     },
     {
@@ -1418,7 +1297,6 @@
       "Xishu": 1.0,
       "RealDevNo": 152,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 121
     },
     {
@@ -1429,7 +1307,6 @@
       "Xishu": 1.0,
       "RealDevNo": 153,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 122
     },
     {
@@ -1440,7 +1317,6 @@
       "Xishu": 1.0,
       "RealDevNo": 154,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 123
     },
     {
@@ -1451,7 +1327,6 @@
       "Xishu": 1.0,
       "RealDevNo": 155,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 124
     },
     {
@@ -1462,7 +1337,6 @@
       "Xishu": 1.0,
       "RealDevNo": 652,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 125
     },
     {
@@ -1473,7 +1347,6 @@
       "Xishu": 1.0,
       "RealDevNo": 653,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 126
     },
     {
@@ -1484,7 +1357,6 @@
       "Xishu": 1.0,
       "RealDevNo": 654,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 127
     },
     {
@@ -1495,7 +1367,6 @@
       "Xishu": 1.0,
       "RealDevNo": 655,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 128
     },
     {
@@ -1506,7 +1377,6 @@
       "Xishu": 1.0,
       "RealDevNo": 656,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 129
     },
     {
@@ -1517,7 +1387,6 @@
       "Xishu": 1.0,
       "RealDevNo": 657,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 130
     },
     {
@@ -1528,7 +1397,6 @@
       "Xishu": 0.001,
       "RealDevNo": 658,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 131
     },
     {
@@ -1539,7 +1407,6 @@
       "Xishu": 0.001,
       "RealDevNo": 659,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 132
     },
     {
@@ -1550,7 +1417,6 @@
       "Xishu": 0.01,
       "RealDevNo": 660,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 133
     },
     {
@@ -1561,7 +1427,6 @@
       "Xishu": 1.0,
       "RealDevNo": 61,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 134
     },
     {
@@ -1572,7 +1437,6 @@
       "Xishu": 1.0,
       "RealDevNo": 62,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 135
     },
     {
@@ -1583,7 +1447,6 @@
       "Xishu": 1.0,
       "RealDevNo": 63,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 136
     },
     {
@@ -1594,7 +1457,6 @@
       "Xishu": 1.0,
       "RealDevNo": 64,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 137
     },
     {
@@ -1605,7 +1467,6 @@
       "Xishu": 1.0,
       "RealDevNo": 144,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 138
     },
     {
@@ -1616,7 +1477,6 @@
       "Xishu": 1.0,
       "RealDevNo": 145,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 139
     },
     {
@@ -1627,7 +1487,6 @@
       "Xishu": 1.0,
       "RealDevNo": 146,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 140
     },
     {
@@ -1638,7 +1497,6 @@
       "Xishu": 1.0,
       "RealDevNo": 147,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 141
     },
     {
@@ -1649,7 +1507,6 @@
       "Xishu": 1.0,
       "RealDevNo": 148,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 142
     },
     {
@@ -1660,7 +1517,6 @@
       "Xishu": 1.0,
       "RealDevNo": 149,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 143
     },
     {
@@ -1671,7 +1527,6 @@
       "Xishu": 1.0,
       "RealDevNo": 150,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 144
     },
     {
@@ -1682,7 +1537,6 @@
       "Xishu": 1.0,
       "RealDevNo": 151,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 145
     },
     {
@@ -1693,7 +1547,6 @@
       "Xishu": 1.0,
       "RealDevNo": 152,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 146
     },
     {
@@ -1704,7 +1557,6 @@
       "Xishu": 1.0,
       "RealDevNo": 153,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 147
     },
     {
@@ -1715,7 +1567,6 @@
       "Xishu": 1.0,
       "RealDevNo": 154,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 148
     },
     {
@@ -1726,7 +1577,6 @@
       "Xishu": 1.0,
       "RealDevNo": 155,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 149
     }
   ],
@@ -1739,7 +1589,6 @@
       "Xishu": 1.0,
       "RealDevNo": 628,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
@@ -1750,7 +1599,6 @@
       "Xishu": 1.0,
       "RealDevNo": 140,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 1
     },
     {
@@ -1761,7 +1609,6 @@
       "Xishu": 1.0,
       "RealDevNo": 126,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 2
     },
     {
@@ -1772,7 +1619,6 @@
       "Xishu": 1.0,
       "RealDevNo": 127,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 3
     },
     {
@@ -1783,7 +1629,6 @@
       "Xishu": 1.0,
       "RealDevNo": 128,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 4
     },
     {
@@ -1794,7 +1639,6 @@
       "Xishu": 1.0,
       "RealDevNo": 129,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 5
     },
     {
@@ -1805,7 +1649,6 @@
       "Xishu": 1.0,
       "RealDevNo": 130,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 6
     },
     {
@@ -1816,7 +1659,6 @@
       "Xishu": 1.0,
       "RealDevNo": 131,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 7
     },
     {
@@ -1827,7 +1669,6 @@
       "Xishu": 1.0,
       "RealDevNo": 132,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 8
     },
     {
@@ -1838,7 +1679,6 @@
       "Xishu": 1.0,
       "RealDevNo": 133,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 9
     },
     {
@@ -1849,7 +1689,6 @@
       "Xishu": 1.0,
       "RealDevNo": 134,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 10
     },
     {
@@ -1860,7 +1699,6 @@
       "Xishu": 1.0,
       "RealDevNo": 135,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 11
     },
     {
@@ -1871,7 +1709,6 @@
       "Xishu": 1.0,
       "RealDevNo": 126,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 12
     },
     {
@@ -1882,7 +1719,6 @@
       "Xishu": 1.0,
       "RealDevNo": 9,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 13
     },
     {
@@ -1893,7 +1729,6 @@
       "Xishu": 1.0,
       "RealDevNo": 126,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 14
     },
     {
@@ -1904,7 +1739,6 @@
       "Xishu": 1.0,
       "RealDevNo": 127,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 15
     },
     {
@@ -1915,7 +1749,6 @@
       "Xishu": 1.0,
       "RealDevNo": 128,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 16
     },
     {
@@ -1926,7 +1759,6 @@
       "Xishu": 1.0,
       "RealDevNo": 129,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 17
     },
     {
@@ -1937,7 +1769,6 @@
       "Xishu": 1.0,
       "RealDevNo": 130,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 18
     },
     {
@@ -1948,7 +1779,6 @@
       "Xishu": 1.0,
       "RealDevNo": 131,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 19
     },
     {
@@ -1959,7 +1789,6 @@
       "Xishu": 1.0,
       "RealDevNo": 132,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 20
     },
     {
@@ -1970,7 +1799,6 @@
       "Xishu": 1.0,
       "RealDevNo": 133,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 21
     },
     {
@@ -1981,7 +1809,6 @@
       "Xishu": 1.0,
       "RealDevNo": 134,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 22
     },
     {
@@ -1992,161 +1819,146 @@
       "Xishu": 1.0,
       "RealDevNo": 135,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 23
     },
     {
       "No": 24,
-      "Name": "设备[2]-108-分-实时库号[639]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 25,
       "Xishu": 1.0,
-      "RealDevNo": 639,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 24
     },
     {
       "No": 25,
-      "Name": "设备[2]-备用遥信32-实时库号[141]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 26,
       "Xishu": 1.0,
-      "RealDevNo": 141,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 25
     },
     {
       "No": 26,
-      "Name": "设备[2]-备用遥信17-实时库号[126]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 27,
       "Xishu": 1.0,
-      "RealDevNo": 126,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 26
     },
     {
       "No": 27,
-      "Name": "设备[2]-备用遥信18-实时库号[127]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 28,
       "Xishu": 1.0,
-      "RealDevNo": 127,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 27
     },
     {
       "No": 28,
-      "Name": "设备[2]-备用遥信19-实时库号[128]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 29,
       "Xishu": 1.0,
-      "RealDevNo": 128,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 28
     },
     {
       "No": 29,
-      "Name": "设备[2]-备用遥信20-实时库号[129]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 30,
       "Xishu": 1.0,
-      "RealDevNo": 129,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 29
     },
     {
       "No": 30,
-      "Name": "设备[2]-备用遥信21-实时库号[130]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 31,
       "Xishu": 1.0,
-      "RealDevNo": 130,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 30
     },
     {
       "No": 31,
-      "Name": "设备[2]-备用遥信22-实时库号[131]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 32,
       "Xishu": 1.0,
-      "RealDevNo": 131,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 31
     },
     {
       "No": 32,
-      "Name": "设备[2]-备用遥信23-实时库号[132]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 33,
       "Xishu": 1.0,
-      "RealDevNo": 132,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 32
     },
     {
       "No": 33,
-      "Name": "设备[2]-备用遥信24-实时库号[133]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 34,
       "Xishu": 1.0,
-      "RealDevNo": 133,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 33
     },
     {
       "No": 34,
-      "Name": "设备[2]-备用遥信25-实时库号[134]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 35,
       "Xishu": 1.0,
-      "RealDevNo": 134,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 34
     },
     {
       "No": 35,
-      "Name": "设备[2]-备用遥信26-实时库号[135]",
+      "Name": "设备[2]-备用遥信27",
       "Unit": null,
       "Addr": 36,
       "Xishu": 1.0,
-      "RealDevNo": 135,
+      "RealDevNo": 136,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 35
     },
     {
       "No": 36,
-      "Name": "设备[3]-109-分-实时库号[650]",
+      "Name": "设备[2]-108-分-实时库号[639]",
       "Unit": null,
       "Addr": 37,
       "Xishu": 1.0,
-      "RealDevNo": 650,
+      "RealDevNo": 639,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 36
     },
     {
       "No": 37,
-      "Name": "设备[2]-备用遥信33-实时库号[142]",
+      "Name": "设备[2]-备用遥信32-实时库号[141]",
       "Unit": null,
       "Addr": 38,
       "Xishu": 1.0,
-      "RealDevNo": 142,
+      "RealDevNo": 141,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 37
     },
     {
@@ -2157,7 +1969,6 @@
       "Xishu": 1.0,
       "RealDevNo": 126,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 38
     },
     {
@@ -2168,7 +1979,6 @@
       "Xishu": 1.0,
       "RealDevNo": 127,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 39
     },
     {
@@ -2179,7 +1989,6 @@
       "Xishu": 1.0,
       "RealDevNo": 128,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 40
     },
     {
@@ -2190,7 +1999,6 @@
       "Xishu": 1.0,
       "RealDevNo": 129,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 41
     },
     {
@@ -2201,7 +2009,6 @@
       "Xishu": 1.0,
       "RealDevNo": 130,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 42
     },
     {
@@ -2212,7 +2019,6 @@
       "Xishu": 1.0,
       "RealDevNo": 131,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 43
     },
     {
@@ -2223,7 +2029,6 @@
       "Xishu": 1.0,
       "RealDevNo": 132,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 44
     },
     {
@@ -2234,7 +2039,6 @@
       "Xishu": 1.0,
       "RealDevNo": 133,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 45
     },
     {
@@ -2245,7 +2049,6 @@
       "Xishu": 1.0,
       "RealDevNo": 134,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 46
     },
     {
@@ -2256,29 +2059,26 @@
       "Xishu": 1.0,
       "RealDevNo": 135,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 47
     },
     {
       "No": 48,
-      "Name": "设备[1]-110-分-实时库号[661]",
+      "Name": "设备[3]-109-分-实时库号[650]",
       "Unit": null,
       "Addr": 49,
       "Xishu": 1.0,
-      "RealDevNo": 661,
+      "RealDevNo": 650,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 48
     },
     {
       "No": 49,
-      "Name": "设备[2]-备用遥信34-实时库号[143]",
+      "Name": "设备[2]-备用遥信33-实时库号[142]",
       "Unit": null,
       "Addr": 50,
       "Xishu": 1.0,
-      "RealDevNo": 143,
+      "RealDevNo": 142,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 49
     },
     {
@@ -2289,7 +2089,6 @@
       "Xishu": 1.0,
       "RealDevNo": 126,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 50
     },
     {
@@ -2300,7 +2099,6 @@
       "Xishu": 1.0,
       "RealDevNo": 127,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 51
     },
     {
@@ -2311,7 +2109,6 @@
       "Xishu": 1.0,
       "RealDevNo": 128,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 52
     },
     {
@@ -2322,7 +2119,6 @@
       "Xishu": 1.0,
       "RealDevNo": 129,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 53
     },
     {
@@ -2333,7 +2129,6 @@
       "Xishu": 1.0,
       "RealDevNo": 130,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 54
     },
     {
@@ -2344,7 +2139,6 @@
       "Xishu": 1.0,
       "RealDevNo": 131,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 55
     },
     {
@@ -2355,7 +2149,6 @@
       "Xishu": 1.0,
       "RealDevNo": 132,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 56
     },
     {
@@ -2366,7 +2159,6 @@
       "Xishu": 1.0,
       "RealDevNo": 133,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 57
     },
     {
@@ -2377,7 +2169,6 @@
       "Xishu": 1.0,
       "RealDevNo": 134,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 58
     },
     {
@@ -2388,8 +2179,127 @@
       "Xishu": 1.0,
       "RealDevNo": 135,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 59
+    },
+    {
+      "No": 60,
+      "Name": "设备[1]-110-分-实时库号[661]",
+      "Unit": null,
+      "Addr": 61,
+      "Xishu": 1.0,
+      "RealDevNo": 661,
+      "type": 0,
+      "Idx": 60
+    },
+    {
+      "No": 61,
+      "Name": "设备[2]-备用遥信34-实时库号[143]",
+      "Unit": null,
+      "Addr": 62,
+      "Xishu": 1.0,
+      "RealDevNo": 143,
+      "type": 0,
+      "Idx": 61
+    },
+    {
+      "No": 62,
+      "Name": "设备[2]-备用遥信17-实时库号[126]",
+      "Unit": null,
+      "Addr": 63,
+      "Xishu": 1.0,
+      "RealDevNo": 126,
+      "type": 0,
+      "Idx": 62
+    },
+    {
+      "No": 63,
+      "Name": "设备[2]-备用遥信18-实时库号[127]",
+      "Unit": null,
+      "Addr": 64,
+      "Xishu": 1.0,
+      "RealDevNo": 127,
+      "type": 0,
+      "Idx": 63
+    },
+    {
+      "No": 64,
+      "Name": "设备[2]-备用遥信19-实时库号[128]",
+      "Unit": null,
+      "Addr": 65,
+      "Xishu": 1.0,
+      "RealDevNo": 128,
+      "type": 0,
+      "Idx": 64
+    },
+    {
+      "No": 65,
+      "Name": "设备[2]-备用遥信20-实时库号[129]",
+      "Unit": null,
+      "Addr": 66,
+      "Xishu": 1.0,
+      "RealDevNo": 129,
+      "type": 0,
+      "Idx": 65
+    },
+    {
+      "No": 66,
+      "Name": "设备[2]-备用遥信21-实时库号[130]",
+      "Unit": null,
+      "Addr": 67,
+      "Xishu": 1.0,
+      "RealDevNo": 130,
+      "type": 0,
+      "Idx": 66
+    },
+    {
+      "No": 67,
+      "Name": "设备[2]-备用遥信22-实时库号[131]",
+      "Unit": null,
+      "Addr": 68,
+      "Xishu": 1.0,
+      "RealDevNo": 131,
+      "type": 0,
+      "Idx": 67
+    },
+    {
+      "No": 68,
+      "Name": "设备[2]-备用遥信23-实时库号[132]",
+      "Unit": null,
+      "Addr": 69,
+      "Xishu": 1.0,
+      "RealDevNo": 132,
+      "type": 0,
+      "Idx": 68
+    },
+    {
+      "No": 69,
+      "Name": "设备[2]-备用遥信24-实时库号[133]",
+      "Unit": null,
+      "Addr": 70,
+      "Xishu": 1.0,
+      "RealDevNo": 133,
+      "type": 0,
+      "Idx": 69
+    },
+    {
+      "No": 70,
+      "Name": "设备[2]-备用遥信25-实时库号[134]",
+      "Unit": null,
+      "Addr": 71,
+      "Xishu": 1.0,
+      "RealDevNo": 134,
+      "type": 0,
+      "Idx": 70
+    },
+    {
+      "No": 71,
+      "Name": "设备[2]-备用遥信26-实时库号[135]",
+      "Unit": null,
+      "Addr": 72,
+      "Xishu": 1.0,
+      "RealDevNo": 135,
+      "type": 0,
+      "Idx": 71
     }
   ],
   "YKDataItem": [
