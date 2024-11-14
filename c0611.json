@@ -2313,7 +2313,6 @@
       "Addr": 24577,
       "RealDevNo": 18000,
       "type": 2,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
@@ -2326,7 +2325,6 @@
       "Addr": 24577,
       "RealDevNo": 18001,
       "type": 2,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
@@ -2334,12 +2332,11 @@
       "Xishu": 0.0,
       "YkValue": 0,
       "No": 2,
-      "Name": "设备[1]-设备自身遥控1-实时库号[70]",
+      "Name": "设备[0]-同期合闸遥控分",
       "Unit": null,
-      "Addr": 24578,
-      "RealDevNo": 1,
+      "Addr": 24582,
+      "RealDevNo": 18000,
       "type": 2,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
@@ -2347,12 +2344,11 @@
       "Xishu": 0.0,
       "YkValue": 3,
       "No": 3,
-      "Name": "设备[1]-设备自身遥控2-实时库号[71]",
+      "Name": "设备[0]-同期合闸遥控合",
       "Unit": null,
-      "Addr": 24578,
-      "RealDevNo": 2,
+      "Addr": 24582,
+      "RealDevNo": 18001,
       "type": 2,
-      "CurrentValue": 0.0,
       "Idx": 0
     }
   ],
