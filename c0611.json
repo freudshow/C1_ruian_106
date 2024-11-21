@@ -2306,7 +2306,7 @@
     {
       "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
       "Xishu": 0.0,
-      "YkValue": 0,
+      "YkValue": 1,
       "No": 0,
       "Name": "设备[0]-同期合闸遥控分-实时库号[617]",
       "Unit": null,
@@ -2318,7 +2318,7 @@
     {
       "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
       "Xishu": 0.0,
-      "YkValue": 3,
+      "YkValue": 2,
       "No": 1,
       "Name": "设备[0]-同期合闸遥控合-实时库号[618]",
       "Unit": null,
@@ -2426,7 +2426,7 @@
     {
       "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
       "Xishu": 0.0,
-      "YkValue": 0,
+      "YkValue": 1,
       "No": 10,
       "Name": "设备[0]-同期合闸遥控分",
       "Unit": null,
@@ -2438,7 +2438,7 @@
     {
       "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
       "Xishu": 0.0,
-      "YkValue": 3,
+      "YkValue": 2,
       "No": 11,
       "Name": "设备[0]-同期合闸遥控合",
       "Unit": null,

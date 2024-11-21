@@ -1,0 +1,815 @@
+{
+  "DataItem1": [
+    {
+      "Num": 584,
+      "type": 1,
+      "Name": "预留零序电压_0.1V(负荷侧UN_保护采集)",
+      "Ratio": 1.0,
+      "Value": 205.693878,
+      "idx": 0
+    },
+    {
+      "Num": 595,
+      "type": 1,
+      "Name": "预留零序有功功率(负荷侧_保护采集)",
+      "Ratio": 1.0,
+      "Value": 210.346939,
+      "idx": 1
+    },
+    {
+      "Num": 599,
+      "type": 1,
+      "Name": "预留零序无功功率(负荷侧_保护采集)",
+      "Ratio": 1.0,
+      "Value": 204.714279,
+      "idx": 2
+    },
+    {
+      "Num": 604,
+      "type": 1,
+      "Name": "频率_0.01HZ(负荷侧_保护采集)",
+      "Ratio": 1.0,
+      "Value": 5008.0,
+      "idx": 3
+    },
+    {
+      "Num": 611,
+      "type": 1,
+      "Name": "频率_0.01HZ(进线侧UC1_保护采集)",
+      "Ratio": 1.0,
+      "Value": 5008.0,
+      "idx": 4
+    },
+    {
+      "Num": 581,
+      "type": 1,
+      "Name": "A相电压_0.1V(负荷侧UA2_保护采集)",
+      "Ratio": 1.0,
+      "Value": 561.2245,
+      "idx": 5
+    },
+    {
+      "Num": 582,
+      "type": 1,
+      "Name": "B相电压_0.1V(负荷侧UB2_保护采集)",
+      "Ratio": 1.0,
+      "Value": 562.2449,
+      "idx": 6
+    },
+    {
+      "Num": 583,
+      "type": 1,
+      "Name": "C相电压_0.1V(负荷侧UC2_保护采集)",
+      "Ratio": 1.0,
+      "Value": 562.0,
+      "idx": 7
+    },
+    {
+      "Num": 608,
+      "type": 1,
+      "Name": "A相电压_0.1V(进线侧UA1_保护采集)",
+      "Ratio": 1.0,
+      "Value": 566.5102,
+      "idx": 8
+    },
+    {
+      "Num": 609,
+      "type": 1,
+      "Name": "B相电压_0.1V(进线侧UB1_保护采集)",
+      "Ratio": 1.0,
+      "Value": 562.3469,
+      "idx": 9
+    },
+    {
+      "Num": 610,
+      "type": 1,
+      "Name": "C相电压_0.1V(进线侧UC1_保护采集)",
+      "Ratio": 1.0,
+      "Value": 562.2245,
+      "idx": 10
+    }
+  ],
+  "DataItem2": [
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 1
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 2
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 3
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 4
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 5
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 6
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 7
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 8
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 9
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 10
+    }
+  ],
+  "DataItem3": [
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 1
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 2
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 3
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 4
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 5
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 6
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 7
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 8
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 9
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 10
+    }
+  ],
+  "DataItem4": [
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 1
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 2
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 3
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 4
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 5
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 6
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 7
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 8
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 9
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 10
+    }
+  ],
+  "DataItem5": [
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 1
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 2
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 3
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 4
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 5
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 6
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 7
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 8
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 9
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 10
+    }
+  ],
+  "DataItem6": [
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 1
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 2
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 3
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 4
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 5
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 6
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 7
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 8
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 9
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 10
+    }
+  ],
+  "DataItem7": [
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 1
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 2
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 3
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 4
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 5
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 6
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 7
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 8
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 9
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 10
+    }
+  ],
+  "DataItem8": [
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    }
+  ],
+  "DataItem9": [
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    },
+    {
+      "Num": 0,
+      "type": 0,
+      "Name": null,
+      "Ratio": 0.0,
+      "Value": 0.0,
+      "idx": 0
+    }
+  ],
+  "Hang": 11,
+  "Lie": 1,
+  "Write": 1
+}
